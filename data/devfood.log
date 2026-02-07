@@ -1,0 +1,53 @@
+2025-11-15T19:42:29.365797500 - Nenhum dado persistido encontrado.
+2025-11-15T19:42:46.908035300 - Cliente cadastrado: 1: ramon (CPF:43550327870) - rua bom jesus
+2025-11-15T19:43:04.316281700 - Pedido criado: Pedido#1 - Cliente: ramon - Restaurante: Burguerão - Status: AGUARDANDO_APROVACAO
+2025-11-15T19:43:10.442553400 - Pedido criado: Pedido#2 - Cliente: ramon - Restaurante: Burguerão - Status: AGUARDANDO_APROVACAO
+2025-11-15T19:43:51.970390900 - Nenhum dado persistido encontrado.
+2025-11-15T19:44:13.435285800 - Restaurante cadastrado: 2: ramon (CNPJ:43550327470) - sdfdsf [07:20 - 10:00]
+2025-11-15T19:44:32.887303300 - Cliente cadastrado: 1: ramon (CPF:450) - fgdfg
+2025-11-15T19:44:58.458473500 - Pedido criado: Pedido#1 - Cliente: ramon - Restaurante: Burguerão - Status: AGUARDANDO_APROVACAO
+2025-11-15T19:45:18.828338700 - Nenhum dado persistido encontrado.
+2025-11-15T19:45:34.891815200 - Restaurante cadastrado: 2: ramon (CNPJ:450) - drfd [07:20 - 10:00]
+2025-11-15T19:45:52.768055500 - Item adicionado ao restaurante 2: 3: brownie - R$6,00 (brownie)
+2025-11-15T19:46:06.585973 - Entregador cadastrado: 1: ramones - moto [DISPONIVEL]
+2025-11-15T19:46:26.561775 - Cliente cadastrado: 1: ramon (CPF:450) - raasd
+2025-11-15T19:47:21.895625 - Restaurante cadastrado: 3: ramones (CNPJ:456) - hfgh [07:20 - 23:00]
+2025-11-15T19:47:42.847815 - Item adicionado ao restaurante 3: 4: brownie - R$6,00 (brownie)
+2025-11-15T19:47:51.911206100 - Entregador cadastrado: 2: asdasd - moto [DISPONIVEL]
+2025-11-15T19:48:20.527848800 - Pedido criado: Pedido#1 - Cliente: ramon - Restaurante: ramones - Status: AGUARDANDO_APROVACAO
+2025-11-15T19:48:40.503258900 - Pedido 1 status: EM_PREPARO
+2025-11-15T19:49:43.597737400 - Dados salvos com sucesso.
+2025-11-16T14:02:35.589409200 - Dados carregados com sucesso.
+2025-11-16T14:02:51.826850500 - Cliente cadastrado: 2: ramon (CPF:445) - sdsad
+2025-11-16T14:03:28.990668300 - Dados carregados com sucesso.
+2025-11-16T14:03:37.402072 - Cliente cadastrado: 2: ramon (CPF:445) - sdasd
+2025-11-16T14:06:11.915979400 - Dados carregados com sucesso.
+2025-11-16T14:10:32.968107100 - Dados carregados com sucesso.
+2025-11-16T14:10:53.547421300 - Cliente cadastrado: 2: dfgfdg (CPF:fgdfg) - dfg
+2025-11-16T14:16:36.210686400 - Dados carregados com sucesso.
+2025-11-16T14:56:23.035231 - Dados carregados com sucesso.
+2025-11-16T14:56:32.343537500 - Cliente cadastrado: 2: ramon (CPF:456) - sadsa
+2025-11-16T14:56:58.183882900 - Pedido criado: Pedido#2 - Cliente: ramon - Restaurante: ramon - Status: AGUARDANDO_APROVACAO (Simulando H: 07:20)
+2025-11-16T14:57:20.184614 - Pedido 1 status: EM_PREPARO
+2025-11-16T14:57:52.265250300 - Item removido do restaurante 3: 4
+2025-11-16T14:58:09.093366100 - Entregador cadastrado: 3: sadas - sada [DISPONIVEL]
+2025-11-16T14:58:49.404722100 - Dados salvos com sucesso.
+2025-11-16T15:01:49.772396200 - Dados carregados com sucesso.
+2025-11-16T15:02:14.631021200 - Entregador cadastrado: 4: ramon - moto [DISPONIVEL]
+2025-11-16T15:02:34.115822200 - Dados salvos com sucesso.
+2025-11-21T11:21:52.936827700 - Dados carregados com sucesso.
+2025-11-21T11:23:07.828339300 - Cliente cadastrado: 3: Joao (CPF:11) - rua bom jesus
+2025-11-21T11:25:00.244372300 - Pedido criado: Pedido#3 - Cliente: Joao - Restaurante: ramones - Status: AGUARDANDO_APROVACAO (Simulando H: 07:20)
+2025-11-21T11:25:31.441457900 - Dados carregados com sucesso.
+2025-11-21T11:27:06.282584600 - Restaurante cadastrado: 4: joao hamburger (CNPJ:10000) - rua joao, farol [08:00 - 23:00]
+2025-11-21T11:28:09.718963200 - Entregador cadastrado: 5: Ramon - Moto [DISPONIVEL]
+2025-11-21T11:28:44.229920300 - Item adicionado ao restaurante 4: 5: brownie - R$6,00 (brownie recheado)
+2025-11-21T11:29:34.871921700 - Item adicionado ao restaurante 4: 6: bolo de te - R$9,00 (bolo )
+2025-11-21T11:29:51.836151600 - Item removido do restaurante 4: 6
+2025-11-21T11:32:08.951705 - Pedido criado: Pedido#3 - Cliente: ramon - Restaurante: joao hamburger - Status: AGUARDANDO_APROVACAO (Simulando H: 08:00)
+2025-11-21T11:33:01.110114100 - Pedido 3 status: EM_PREPARO
+2025-11-21T11:35:32.011758300 - Pedido 3 status: ENTREGUE
+2025-11-21T11:37:01.963200700 - Pedido 3 avaliado com nota 5
+2025-11-21T11:39:10.156597200 - Dados salvos com sucesso.
+2025-11-21T23:11:21.175408700 - Dados carregados com sucesso.
+2025-11-21T23:11:30.334630400 - Dados salvos com sucesso.
