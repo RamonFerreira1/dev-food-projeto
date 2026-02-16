@@ -9,11 +9,8 @@ Este é um sistema de gestão para o setor alimentício desenvolvido em **Java S
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Java 17
-* **Framework:** Spring Boot 3.x
-* **Persistência:** Spring Data JPA
-* **Banco de Dados:** H2 (In-memory)
-* **Documentação:** Swagger UI
-
+* **Gerenciador de Build:** Apache Maven
+* **Armazenamento:** Persistência em arquivos locais (pasta /data)
 ---
 
 ## 🧠 Design Patterns Implementados
