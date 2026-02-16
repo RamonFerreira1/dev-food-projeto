@@ -1,10 +1,9 @@
 # 🍕 Dev Food - Sistema de Gestão de Pedidos
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-Este projeto é uma API robusta desenvolvida para a gestão de pedidos em estabelecimentos alimentícios, aplicando conceitos avançados de **Design Patterns** com Spring Boot.
+Este é um sistema de gestão para o setor alimentício desenvolvido em **Java SE (Puro)**. O foco principal deste projeto é a aplicação prática de **Padrões de Projeto (Design Patterns)** clássicos para criar uma solução de software organizada e fácil de manter, sem a dependência de frameworks.
 
 ---
 
@@ -17,16 +16,20 @@ Este projeto é uma API robusta desenvolvida para a gestão de pedidos em estabe
 
 ---
 
-## 🧠 Arquitetura e Padrões de Projeto
-* **Singleton:** Gerenciamento de instâncias pelo Spring.
-* **Strategy:** Flexibilidade para diferentes métodos de pagamento.
-* **Facade:** Orquestração simplificada do fluxo de Checkout.
+## 🧠 Design Patterns Implementados
+
+A arquitetura do **Dev Food** demonstra maturidade técnica através do uso de:
+
+1. **Singleton:** Garante instâncias únicas para classes de gerenciamento de dados e configurações globais.
+2. **Strategy Pattern:** Permite que diferentes algoritmos de negócio (como tipos de desconto ou taxas de entrega) sejam selecionados dinamicamente.
+3. **Facade Pattern:** Proporciona uma interface simplificada para o sistema, escondendo a complexidade das interações entre as classes de pedidos e estoque.
 
 ---
 
-## 💡 Desafios Superados
-* **Troubleshooting de Dependências:** Sincronização do Maven e correção de erros de compilação no VS Code.
-* **Inicialização de Banco:** Solução do erro de tabelas não encontradas via `defer-datasource-initialization`.
+💡 Desafios e Aprendizados
+Implementação Manual de Patterns: O maior desafio foi estruturar os padrões de projeto manualmente, garantindo o baixo acoplamento entre as classes.
+
+Manipulação de Dados: Gerenciamento da leitura e escrita de informações na pasta /data.
 
 ---
 Desenvolvido por [Ramon Ferreira](https://github.com/RamonFerreira1).
